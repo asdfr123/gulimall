@@ -1,2 +1,2 @@
 # gulimall
-a online mall website
+an online mall website
